@@ -18,7 +18,7 @@
 
 		<properties>
 				<java.version>1.8</java.version>
-				<vaadin.version>14.1.16</vaadin.version>
+				<vaadin.version>19.0.5</vaadin.version>
 
 				<build.date>${maven.build.timestamp}</build.date>
 				<maven.build.timestamp.format>yyyyMMdd</maven.build.timestamp.format>
